@@ -1,0 +1,17 @@
+{
+   "name": "tidepodv2",
+   "version": "1.0.0",
+   "description": "twice the pod",
+   "main": "index.js",
+   "scripts": {
+      "start": "node index"
+   },
+   "author": "rob herley",
+   "license": "ISC",
+   "dependencies": {
+      "consola": "^1.2.0",
+      "koa": "^2.5.0",
+      "koa-views": "^6.1.4",
+      "pug": "^2.0.3"
+   }
+}
