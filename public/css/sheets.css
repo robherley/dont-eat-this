@@ -1,3 +1,21 @@
-h1 {
-   color: red;
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.container {
+   background-color: beige;
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+
+.tidepod {
+   position: absolute;
+   color: brown;
+   top: 0;
+   left: 0;
 }
